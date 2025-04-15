@@ -1,0 +1,4 @@
+Running: xsim.dir/johson_counter_behav/xsimk.exe -simmode gui -wdb johson_counter_behav.wdb -simrunnum 0 -socket 58296
+Design successfully loaded
+Design Loading Memory Usage: 28528 KB (Peak: 28528 KB)
+Design Loading CPU Usage: 702 ms
