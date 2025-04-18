@@ -2,3 +2,6 @@ Running: xsim.dir/johson_counter_behav/xsimk.exe -simmode gui -wdb johson_counte
 Design successfully loaded
 Design Loading Memory Usage: 28528 KB (Peak: 28528 KB)
 Design Loading CPU Usage: 702 ms
+Simulation completed
+Simulation Memory Usage: 29576 KB (Peak: 29576 KB)
+Simulation CPU Usage: 765 ms
